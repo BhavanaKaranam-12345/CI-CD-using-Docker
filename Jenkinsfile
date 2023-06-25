@@ -19,6 +19,3 @@ pipeline {
                 sh 'mvn package'             
           }
         }
-        
-
-  
